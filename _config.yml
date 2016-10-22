@@ -12,7 +12,7 @@ description: hahahahaha
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 twitter_username: /
-github_username: kunlunmao
+github_username:  kunlunmao
 
 # Build settings
 markdown: kramdown
