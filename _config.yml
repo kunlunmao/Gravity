@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Qin's sweet home
-email: kunlunmao@qq.com
-description: hahahahaha
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
-twitter_username: /
+title: Qin
+email: hemangsk@gmail.com
+description: The Liberal Jekyll Theme
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: hemang_kumar
 github_username:  kunlunmao
 
 # Build settings
