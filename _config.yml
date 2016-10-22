@@ -9,7 +9,7 @@
 title: Qin's sweet home
 email: kunlunmao@qq.com
 description: hahahahaha
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 twitter_username: /
 github_username: kunlunmao
